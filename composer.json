@@ -21,7 +21,7 @@
     "require-dev": {
         "oxid-esales/testing-library": "dev-TCF_MAIN_integrate_doctrine-ESDEV-3462",
         "oxid-esales/coding-standards": "dev-master",
-        "oxid-esales/coding-standards-wrapper": "dev-master",
+        "oxid-esales/coding-standards-wrapper": "dev-fix_coding_style-ESDEV-4035",
         "incenteev/composer-parameter-handler": "~2.0"
     },
     "autoload": {
